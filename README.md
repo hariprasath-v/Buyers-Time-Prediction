@@ -12,5 +12,5 @@ Tracking customer spending time on e-commerce websites based on various factors.
 *  seaborn 
 *  matplotlib
 *  calplot
-*  warnings
+
  
